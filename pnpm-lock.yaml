@@ -76,9 +76,6 @@ importers:
       '@repo/eslint-config':
         specifier: workspace:*
         version: link:../../packages/eslint-config
-      '@repo/playwright-config':
-        specifier: workspace:*
-        version: link:../../packages/playwright-config
       '@repo/typescript-config':
         specifier: workspace:*
         version: link:../../packages/typescript-config
