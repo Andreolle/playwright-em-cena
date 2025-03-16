@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "name": "@repo/playwright-config",
+  "version": "0.0.0",
+  "main": "playwright.config.js"
+}
